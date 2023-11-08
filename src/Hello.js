@@ -1,4 +1,5 @@
 import React from 'react';
+import "../src/Hello.css"
 
 function HelloComponent(){
     return (
