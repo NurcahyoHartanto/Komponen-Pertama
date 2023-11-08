@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
-import "./styling/Hello1.css"
+import "./styling1/Hello1.css"
 class Hello1 extends Component {
     render (){
         return (
             <div>
-                <h1>Hello Dunia</h1>
+                <h3>Hello Dunia</h3>
             </div>
         );
     }
