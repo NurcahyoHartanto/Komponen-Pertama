@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-
+import "./styling/Hello1.css"
 class Hello1 extends Component {
     render (){
         return (
